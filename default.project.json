@@ -12,9 +12,12 @@
       "$className": "ReplicatedStorage",
       "$path": "src/ReplicatedStorage"
 	},
-	"StarterGui": {
-	  "$className": "StarterGui",
-	  "$path": "src/StarterGui"
+	"StarterPlayer": {
+	  "$className": "StarterPlayer",
+	  "StarterPlayerScripts": {
+		"$className": "StarterPlayerScripts",
+		"$path": "src/StarterPlayerScripts"
+	  }
 	},
     "SoundService": {
       "$className": "SoundService",
