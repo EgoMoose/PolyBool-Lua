@@ -1,0 +1,26 @@
+{
+  "name": "PolyBool-Lua",
+  "tree": {
+    "$className": "DataModel",
+    "HttpService": {
+      "$className": "HttpService",
+      "$properties": {
+        "HttpEnabled": true
+      }
+    },
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$path": "src/ReplicatedStorage"
+	},
+	"StarterGui": {
+	  "$className": "StarterGui",
+	  "$path": "src/StarterGui"
+	},
+    "SoundService": {
+      "$className": "SoundService",
+      "$properties": {
+        "RespectFilteringEnabled": true
+      }
+    }
+  }
+}
