@@ -8,9 +8,9 @@ Check it out as it has all documentation on how to use it that you'd need.
 
 ## Screenshots
 
-![](ScreenShots/None.png)
-![](ScreenShots/Union.png)
-![](ScreenShots/Intersect.png)
-![](ScreenShots/Diff.png)
-![](ScreenShots/DiffRev.png)
-![](ScreenShots/Xor.png)
+<img src="ScreenShots/None.png" width="50%">
+<img src="ScreenShots/Union.png" width="50%">
+<img src="ScreenShots/Intersect.png" width="50%">
+<img src="ScreenShots/Diff.png" width="50%">
+<img src="ScreenShots/DiffRev.png" width="50%">
+<img src="ScreenShots/Xor.png" width="50%">
