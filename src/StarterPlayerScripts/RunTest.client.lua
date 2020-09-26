@@ -1,1 +1,1 @@
-require(game.ReplicatedStorage.Test)()
+require(game.ReplicatedStorage.Test)
